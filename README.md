@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assests/banner.svg" alt="AI Engineering From Scratch Banner" width="100%" />
+</p>
+
 # AI Engineering From Scratch — Community Book Edition
 
 > A professionally formatted book edition of the open-source **AI Engineering From Scratch** project.
@@ -30,6 +34,10 @@ Instead, it complements it.
 ---
 
 ## Volume 1
+
+<p align="center">
+  <img src="covers/v1.png" alt="Volume 1 — Foundations Cover" width="400" />
+</p>
 
 ### Foundations
 
