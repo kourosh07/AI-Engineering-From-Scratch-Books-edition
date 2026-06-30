@@ -10,7 +10,6 @@ Examples:
 - Improve formatting
 - Improve diagrams
 - Better flowcharts
-- EPUB improvements
 - Accessibility improvements
 
 Please keep pull requests focused on one improvement.

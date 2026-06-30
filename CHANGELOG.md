@@ -8,7 +8,6 @@ Added:
 
 - Volume 1
 - PDF edition
-- EPUB edition
 - Professional layout
 - Flowcharts
 - Navigation

@@ -11,7 +11,6 @@ This edition focuses on:
 - book layout
 - diagrams
 - flowcharts
-- EPUB generation
 - print optimization
 
 No ownership of the original educational material is claimed.

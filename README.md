@@ -18,7 +18,6 @@ The purpose of this project is to improve the reading experience by providing:
 
 - Professional typography
 - Print-ready PDF
-- EPUB edition
 - Better page organization
 - Additional flowcharts
 - Visual explanations
@@ -49,7 +48,6 @@ Download the latest version from the **Releases** page.
 Available formats:
 
 - PDF
-- EPUB
 
 ---
 
@@ -88,7 +86,6 @@ This edition adds:
 - Additional diagrams
 - Navigation improvements
 - Print optimization
-- EPUB generation
 
 The educational content remains the work of the original author.
 
