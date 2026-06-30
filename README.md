@@ -51,7 +51,9 @@ Covers:
 
 ## Downloads
 
-Download the latest version from the **Releases** page.
+Download the latest version:
+
+- 📄 [Volume 1 — Foundations (PDF)](https://github.com/kourosh07/AI-Engineering-From-Scratch-Books-edition/blob/main/volumes/Volume-01-Foundations.pdf)
 
 Available formats:
 
