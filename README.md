@@ -25,9 +25,7 @@ The purpose of this project is to improve the reading experience by providing:
 - Visual explanations
 - Offline reading experience
 
-This repository **does not replace** the original project.
-
-Instead, it complements it.
+This repository **does not replace** the original project. Instead, it complements it.
 
 ---
 
